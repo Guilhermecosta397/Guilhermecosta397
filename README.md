@@ -2,7 +2,6 @@ Oi! Eu sou Guilherme Costa
 
 - 🌱 Graduando Analise e Desenvolvimento de Sistemas
 - 📔 Especializando-se em Back-End
-- 📩contate-me por email: guilhermeoliveira2542@hotmail.com
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
