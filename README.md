@@ -1,7 +1,7 @@
 Oi! Eu sou Guilherme Costa
 
 - 🌱 Graduando Analise e Desenvolvimento de Sistemas
-- 📔 Especializando-se em Back-End
+- 📔 Buscando Experiencias No Mundo TECH
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
